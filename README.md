@@ -1,3 +1,5 @@
-Bueno, este es mi primer proyecto de Odin, estoy un poco emocionado. 
-Ojalá no me vaya tan mal.
-Este proyecto consiste en realizar un proyecto básico de recetas, voy a poner en práctica todo lo que la página de The Odin Project me ha enseñado :-)
+# Presentation
+This is the first project for The Odin Project Fundations
+In this page, you'll see a recipes for differents foods in the world.
+
+- Images credits:[Magnific](https://www.magnific.com/)
